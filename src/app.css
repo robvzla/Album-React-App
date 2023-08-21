@@ -1,0 +1,35 @@
+.container {
+    background-color: rgb(250, 250, 250);
+    padding: 10px;
+}
+
+.buttons {
+    margin: 40px 0 0 0;
+}
+
+.icon {
+    margin: 0 20px 0 0;
+}
+
+.cardGrip {
+    padding: 20px 0;
+}
+
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardMedia {
+    padding: 36.25%;
+}
+
+.cardContent {
+    flex-grow: 1;
+}
+
+.footer {
+    background-color: rgb(250, 250, 250);
+    padding: 50px 0;
+}
