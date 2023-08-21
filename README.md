@@ -3,6 +3,8 @@
 ## Introduction:
 In my recent endeavor, I embarked on a journey to delve into the realm of Material-UI, an influential JavaScript library renowned for its prebuilt components that streamline production-grade UI development. With a primary goal of mastering Material-UI's components, syntax, and practical application, I set out to create a React-based project that not only showcases my newfound skills but also evolves into a fully functional dynamic album showcase. This project allowed me to grasp the intricacies of Material-UI while also presenting an opportunity to explore advanced features like interactive buttons and integration with a database.
 
+The live project can be viewed here => [Live Project](https://robvzla.github.io/album-react-app/).
+
 ## Project Overview:
 The core essence of my project revolves around the integration of Material-UI into a React application. I meticulously chose Material-UI due to its established reputation for accelerating UI development and facilitating a polished user experience. The project aims to serve a dual purpose: as a learning tool for me to understand Material-UI's components and as a dynamic platform that exhibits albums with an intuitive user interface.
 
